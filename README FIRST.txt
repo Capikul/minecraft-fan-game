@@ -1,0 +1,1 @@
+you MUST have python installed(to path)then "pip install ursina".
